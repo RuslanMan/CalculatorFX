@@ -1,0 +1,11 @@
+
+J
+java:S1068"(Remove this unused "num1" private field.(úåÔšıÿÿÿÿ8Òæ€Óù.
+J
+java:S1068"(Remove this unused "num2" private field.(ÌŞíşüÿÿÿÿ8Òæ€Óù.
+F
+java:S1068")Remove this unused "model" private field.(Ç¼º8¡ê†Óù.
+N
+java:S1068",Remove this unused "operator" private field.(“ÄÒÜûÿÿÿÿ8Òæ€Óù.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ûæ®¥ûÿÿÿÿ8úŠøÑù.
